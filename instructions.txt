@@ -1,0 +1,6 @@
+1. create new environment
+   conda create -n carprediction python=3.7
+   activate carprediction
+2. went to working directory
+3. launch jupyter notebook
+4. create model
